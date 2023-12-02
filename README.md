@@ -20,3 +20,6 @@ Extensão do Python instalada no Visual Studio Code.
 Instalação do Software Python Version 3.12.0.
 
 --- Vídeo de Apresentação da Aplicação ---
+
+https://www.youtube.com/watch?v=0YhmPJO7G5E
+
